@@ -1,5 +1,0 @@
-Notebook Links: https://deeplearningcourses.com/notebooks/SR-WI4wn_df_Ns-6JFmi0Q
-
-Data Links: https://docs.google.com/document/d/1awPuAtUj16nD5vC0nwyc3hJIN-7uSK_ANkllHyKRA7U/edit?tab=t.0#heading=h.ksntxim3vdt1
-
-GitHub Link: https://github.com/lazyprogrammer/machine_learning_examples/tree/master/pytorch
